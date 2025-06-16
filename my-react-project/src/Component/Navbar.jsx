@@ -1,8 +1,8 @@
 let Navbar = () => {
-  let logo = "Syed haseeb";
+  let logo = "MytraPro";
   return (
     <header>
-      <h2>{logo.length==11?"syed":"Mani"}</h2>
+      <h2>{logo}</h2>
       <nav>
         <ul>
           <li>home</li>
